@@ -1,0 +1,2 @@
+# FestBuddy
+Festival Management Platform
